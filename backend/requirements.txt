@@ -15,7 +15,7 @@ django-oauth-toolkit==1.2.0
 django-oauth2-provider==0.2.6.1
 django-rest-framework-social-oauth2==1.1.0
 django-webpack-loader==0.6.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 execnet==1.5.0
 idna==2.7
 isort==4.3.4
